@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 )<br/>
 ****
-[![geniushyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniushyeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![geniushyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=geniushyeon&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br/>****
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geniushyeon)
